@@ -6,4 +6,6 @@ Linear Algebra
 
 I decided to take up the MIT open source Linear Algebra course. I have decided to complete 1 video lesson per day.(In totoal there are 34 classes). I will be taking up this course along with learning Python from DataCamp.
 
+What I learnt today:
+Python- Functions,methods,Numpy
 
