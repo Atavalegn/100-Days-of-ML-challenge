@@ -9,3 +9,9 @@ I decided to take up the MIT open source Linear Algebra course. I have decided t
 What I learnt today:
 Python- Functions,methods,Numpy
 
+Linear algebra- "Row picture" and "Column picture"
+
+Day 2:  Dec 8 2018
+
+Completed the basic Introduction course to python - Datacamp course
+
