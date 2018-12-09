@@ -15,3 +15,7 @@ Day 2:  Dec 8 2018
 
 Completed the basic Introduction course to python - Datacamp course
 
+Cay 3: Dec 9 2018
+
+
+
