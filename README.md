@@ -17,5 +17,7 @@ Completed the basic Introduction course to python - Datacamp course
 
 Cay 3: Dec 9 2018
 
+Learnt the basics on matplotlib. And worked primarily on plotting line,scater and histograms
+
 
 
